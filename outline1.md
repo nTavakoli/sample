@@ -1,3 +1,0 @@
-Hello,
-Iam Nazanin
-negar
